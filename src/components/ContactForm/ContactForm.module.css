@@ -1,0 +1,25 @@
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+label {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+input {
+  flex: 1;
+  margin-left: 10px;
+}
+
+button {
+  padding: 5px 10px;
+  border: none;
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+}

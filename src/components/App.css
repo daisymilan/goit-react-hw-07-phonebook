@@ -1,0 +1,17 @@
+.app-container {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    color: red;
+}
